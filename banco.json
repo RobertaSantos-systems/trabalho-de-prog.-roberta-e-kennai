@@ -1,0 +1,16 @@
+[
+    {
+        "tipo": "ContaCorrente",
+        "numero": "1235667",
+        "titular": "Ana",
+        "saldo": 2000.0,
+        "transferencia": 0
+    },
+    {
+        "tipo": "ContaCorrente",
+        "numero": "123454",
+        "titular": "yula",
+        "saldo": 0,
+        "transferencia": 0
+    }
+]
